@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Orz,欢迎来到Zoe的个人博客,感动分享,记录成长
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
