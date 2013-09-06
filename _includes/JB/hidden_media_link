@@ -5,13 +5,15 @@ Usage:
   example:
   	  {% include JB/tags_list %}
 -->{% endcomment %}
+{% if site.JB.hidden_href != null and site.JB.hidden_href.hidden == true %}
 <script type="text/javascript" src="{{ BASE_PATH }}/assets/jquery-1.10.2.min.js"></script>
 <script>
     $(document).ready(function(){
-      {% if site.JB.hidden_href_topic != null %}
-          {% for topic in site.JB.hidden_href_topic %}
+      {% if site.JB.hidden_href.topic_key_words != null %}
+          {% for topic in site.JB.hidden_href.topic_key_words %}
             $("div a:contains('{{ topic }}')").hide();
           {% endfor %}
       {% endif %}
     });
 </script>
+{% endif %}

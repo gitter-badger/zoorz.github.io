@@ -142,4 +142,6 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
 
   # 这是为了由于引入很多个存在标志链接的多媒体化工具而设计的隐藏特定关键的链接
-  hidden_href_topic : ["友言", "友荐", "百度分享","这是什么工具"]
+  hidden_href : 
+    hidden : true
+    topic_key_words : ["友言", "友荐", "百度分享","这是什么工具"]
