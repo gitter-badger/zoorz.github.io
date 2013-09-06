@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Orz,欢迎来到Zoe的个人博客,感动分享,记录成长
-tagline: Zoorz.com 感动分享,记录成长
+title: Orz,Zoe的个人博客
+tagline: 感动分享,记录成长
 ---
 {% include JB/setup %}
 
