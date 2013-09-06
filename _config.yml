@@ -124,7 +124,12 @@ JB :
   sharing :
     provider : bdshare
     bdshare :
-        uid : 1161821   
+        uid : 1161821
+
+  recommend :
+    provider : ujian
+    ujian :
+        uid : 1518134
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
   #
