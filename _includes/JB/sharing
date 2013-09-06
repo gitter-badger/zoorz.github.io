@@ -2,7 +2,7 @@
 
 {% case site.JB.sharing.provider %}
 {% when "bdshare" %}
-  {% include sharing-providers/bdshare %}	
+  {% include JB/sharing-providers/bdshare %}	
 {% when "custom" %}
   {% include custom/sharing %}
 {% endcase %}
