@@ -6,7 +6,6 @@ Usage:
   	  {% include JB/tags_list %}
 -->{% endcomment %}
 {% if site.JB.hidden_href != null and site.JB.hidden_href.hidden == true %}
-<script type="text/javascript" src="{{ BASE_PATH }}/assets/jquery-1.10.2.min.js"></script>
 <script>
       {% if site.JB.hidden_href.topic_key_words != null %}
           {% for topic in site.JB.hidden_href.topic_key_words %}
