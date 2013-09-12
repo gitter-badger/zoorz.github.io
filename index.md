@@ -27,10 +27,7 @@ tagline: 记录,分享,成长
   <div class="container">
     <ul class="bs-docs-social-buttons">
       <li class="follow-btn">
-        <a href="https://twitter.com/twbootstrap" class="twitter-follow-button" data-link-color="#0069D6" data-show-count="true">Follow @twbootstrap</a>
-      </li>
-      <li class="tweet-btn">
-        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://twbs.github.com/bootstrap/" data-count="horizontal" data-via="twbootstrap" data-related="mdo:Creator of Twitter Bootstrap">Tweet</a>
+        <a href="mailto:zoechow8@gmail.com" class="icon-envelope"></a>
       </li>
     </ul>
   </div>
