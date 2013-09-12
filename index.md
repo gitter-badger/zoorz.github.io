@@ -27,7 +27,7 @@ tagline: 记录,分享,成长
   <div class="container">
     <ul class="bs-docs-social-buttons">
       <li class="follow-btn">
-        <a href="mailto:zoechow8@gmail.com" class="icon-envelope"></a>
+        <a href="mailto:zoechow8@gmail.com" class="icon-envelope">zoechow8@gmail.com</a>
       </li>
     </ul>
   </div>
