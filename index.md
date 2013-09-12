@@ -10,7 +10,7 @@ tagline: 记录,分享,成长
     <h1><a href="/"><img src="/assets/img/logo.png" title="zoeorg.com"/></a></h1>
     <p>交流促进效率,分享创造价值.</p>
     <p>
-      <a href="https://github.com/zoorz/" class="btn btn-success btn-large" onclick="_gaq.push(['_trackEvent', 'Jumbotron actions', 'Download', 'Download 2.3.2']);">Our Production</a>
+      <a href="https://github.com/zoorz/" class="btn btn-success btn-large" onclick="_gaq.push(['_trackEvent', 'Jumbotron actions', 'Download', 'Download 2.3.2']);">Our Productions</a>
     </p>
     <ul class="masthead-links">
       <li>
