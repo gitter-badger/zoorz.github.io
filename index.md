@@ -25,12 +25,14 @@ tagline: 记录,分享,成长
 
 <div class="bs-docs-social">
   <div class="container">
+  <ul class="bs-docs-social-buttons">
       <li class="follow-btn">
         <a href="https://twitter.com/crazbd" class="twitter-follow-button" data-link-color="#0069D6" data-show-count="true">Follow @crazbd</a>
       </li>
       <li class="tweet-btn">
         <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://zoorz.github.com/zozorz/" data-count="horizontal" data-via="crazbd" data-related="mdo:Creator of Twitter Crazbd">Zozorz</a>
       </li>
+  </ul>
   </div>
 </div>
 
