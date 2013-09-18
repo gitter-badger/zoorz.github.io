@@ -52,14 +52,14 @@ tagline: 记录,分享,成长
         <p>Git上线系统专门针对页游事业部的游戏开发流程采用Git进行版本控制而定制开发的一套对代码版本进行跟踪,编译,上线的高度集成系统.</p>
       </div>
       <div class="span4">
+        <a href="/git/gitsys/"><img class="marketing-img" src="http://dummyimage.com/370x145/0099FF/ffffff.png&amp;text=OOP"></a>
+        <h2><a href="/oop/oop-principle/">OOP设计原则.</a></h2>
+        <p>在设计中如何提高代码质量,拓展性,可维护性,低耦合,模块化… 均起到指导行作用.</p>
+      </div>
+      <div class="span4">
         <img class="marketing-img" src="http://dummyimage.com/370x145/66CC00/ffffff.png&amp;text=hacker0x26defence">
         <h2>外挂江湖的攻与守</h2>
         <p>分享常见的外挂制作思路，以及相关的防外挂思路.外挂江湖就是"猫和老鼠"的游戏,让我们一起来领略外挂江湖的攻与守</p>
-      </div>
-      <div class="span4">
-        <img class="marketing-img" src="http://dummyimage.com/370x145/FF3300/ffffff.png&amp;text=Stage3D">
-        <h2>Flash Stage3D.</h2>
-        <p>Flash 3D发展历程、全新的3D API - Stage3D、支持 Stage3D 的第三方引擎、经典案例及Demo演示。 </p>
       </div>
     </div>
 
@@ -69,7 +69,10 @@ tagline: 记录,分享,成长
     <p class="marketing-byline">每周一期的技术峰会,促进了技术交流.加强了学习氛围.更多的是提供了一个平台来表现自己.骚年们,赶紧加油吧.加入我们.</p>
     <div class="row-fluid">
       <ul class="thumbnails example-sites">
-        
+          <li>
+            <img class="marketing-img" src="http://dummyimage.com/270x125/FF3300/ffffff.png&amp;text=Stage3D">
+            <h2>Flash Stage3D.</h2>
+          </li>
       </ul>
      </div>
   </div>
