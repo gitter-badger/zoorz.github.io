@@ -52,7 +52,7 @@ tagline: 记录,分享,成长
         <p>Git上线系统专门针对页游事业部的游戏开发流程采用Git进行版本控制而定制开发的一套对代码版本进行跟踪,编译,上线的高度集成系统.</p>
       </div>
       <div class="span4">
-        <a href="/git/gitsys/"><img class="marketing-img" src="http://dummyimage.com/370x145/0099FF/ffffff.png&amp;text=OOP"></a>
+        <a href="/oop/oop-principle/"><img class="marketing-img" src="http://dummyimage.com/370x145/0099FF/ffffff.png&amp;text=OOP"></a>
         <h2><a href="/oop/oop-principle/">OOP设计原则.</a></h2>
         <p>在设计中如何提高代码质量,拓展性,可维护性,低耦合,模块化… 均起到指导行作用.</p>
       </div>
