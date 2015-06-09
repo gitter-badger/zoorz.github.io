@@ -1,5 +1,7 @@
 zoorz的个人成长记录博客
 =======
+
+[![Join the chat at https://gitter.im/zoorz/zoorz.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zoorz/zoorz.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 学习分享公共博客,
 > 交流促进效率,分享创造价值.
 > __--zoorz__
